@@ -28,11 +28,6 @@ The **sales dataset** is a simulated dataset containing:
 - Information about id, order_date, order_time, pizza_orderd etc,.
 
 ---
-**Data Preprocessing**:
-   - Loaded the data in Excel and Cleaned raw data.
-   - Standardized the colum names, and performed cleaning operation.
-   - Got a rough insight about the dataset.
-
 ## Project Workflow
 
 1. **Problem Identification**:
