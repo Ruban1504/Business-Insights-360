@@ -1,7 +1,7 @@
 Business Insights 360°
 ======
-![Chat Preview](https://imgur.com/i1f5uO3.png)
-![Chat Preview](https://imgur.com/DXWe4GA.png)
+![Chat Preview](https://imgur.com/WKzOGoD.png)
+
 
 ---
 
